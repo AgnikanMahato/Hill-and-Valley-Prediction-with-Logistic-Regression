@@ -1,4 +1,4 @@
-# Hill-and-Valley-Prediction-with-Logistic-Regression
+# Hill-and-Valley-Prediction-with-Logistic-Regression:
 
 ### 1. **Project Overview:**
    - **Objective**: Predict whether a given set of coordinates on a 2D graph represents a "Hill" or a "Valley."
